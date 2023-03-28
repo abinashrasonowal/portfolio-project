@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://abinashrasonowal.github.io/portfolio/" target="_blank">abinashrasonowal.github.io/portfolio/</a>
+  <a href="https://abinashrasonowal.github.io/" target="_blank">abinashrasonowal.github.io/</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://raw.githubusercontent.com/abinashrasonowal/portfolio-project/main/images/readme.png" />
