@@ -4,6 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Home2 from "./Home2";
 import Type from "./Type";
 
+
 function Home() {
   return (
     <section>
@@ -32,6 +33,7 @@ function Home() {
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
                 src={"https://raw.githubusercontent.com/abinashrasonowal/portfolio-project/main/src/Assets/home-main.svg"}
+                // src={homepic}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
