@@ -20,27 +20,24 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              imgPath={"https://raw.githubusercontent.com/abinashrasonowal/portfolio-project/main/images/readme.png"}
+              title="Portfolio-project"
+              description="For my portfolio project, I built a dynamic and responsive website using ReactJS. The goal of this project was to showcase my skills and experience as a developer and provide an easy-to-use platform for potential employers or clients to learn more about me.Additionally, the website is hosted on GitHub Pages, providing a convenient and reliable platform for hosting and sharing my work"
+              ghLink="https://github.com/abinashrasonowal/portfolio-project"
+              demoLink="https://abinashrasonowal.github.io/"
             />
-          </Col> */}
+          </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={'https://raw.githubusercontent.com/abinashrasonowal/portfolio-project/main/src/Assets/Projects/blog.png'}
-              isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              imgPath={'https://raw.githubusercontent.com/abinashrasonowal/online_ide/main/public/ui/images/Screenshot%20(42).png'}
+              title="online_ide"
+              description="For my personal project, I developed an online integrated development environment (IDE) cum compiler that supports a dark theme and syntax highlighting for multiple programming languages. The goal of this project was to provide a seamless development experience for programmers, allowing them to write and run code directly from their browser without the need to install any additional software."
+              ghLink="https://github.com/abinashrasonowal/online_ide"
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
@@ -53,7 +50,7 @@ function Projects() {
             />
           </Col> */}
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={"https://raw.githubusercontent.com/abinashrasonowal/portfolio-project/main/src/Assets/Projects/leaf.png"}
               isBlog={false}
@@ -62,7 +59,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
-          </Col>
+          </Col> */}
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
