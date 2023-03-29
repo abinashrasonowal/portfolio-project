@@ -18,16 +18,16 @@
 
 </center>
 
-<!-- <h3 align="center">
+<h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/abinashrasonowal/portfolio-project/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3> -->
+    <a href="https://github.com/abinashrasonowal/portfolio-project/issues">Request Feature</a>
+</h3> 
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [abinashrasonowal](https://github.com/abinashrasonowal/portfolio-project). Thanks!
 
 ## Built With
 
